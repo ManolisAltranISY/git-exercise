@@ -3,6 +3,6 @@
 
 int main()
 {
-    printf("Whatsup Whatsup babyyyyyy\n");
+    printf("Whatsup Whatsup sugar\n");
     return 1;
 }
